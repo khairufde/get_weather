@@ -11,8 +11,9 @@ This project automates the process of collecting 5-day weather forecasts, schedu
 - <b>requests</b>
 - <b><a href="https://openweathermap.org/">openweathermapAPI</a></b>
 - <b>ETL</b>
-- <b>Airflow</b>
 - <b>pandas</b>
+- <b>Airflow</b>
+- <b>docker</b>
 - <b>postgres</b>
 - <b>PgAdmin</b>
 - <b>sql</b>
