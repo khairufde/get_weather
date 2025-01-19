@@ -1,7 +1,7 @@
 <h1>Weather Data Pipeline using <a href="https://openweathermap.org/">OpenWeatherMapAPI</a> and Airflow</h1>
 
 <h2>Description</h2>
-This project automates the process of collecting, scheduling, and storing weather data. It demonstrates a ETL (Extract, Transform, Load) pipeline by leveraging the <a href="https://openweathermap.org/">openweathermapAPI</a>, scheduling with Apache Airflow, then loading the transformed data into a PostgreSQL database.
+This project automates the process of collecting 5-day weather forecasts, scheduling, and storing weather data. It demonstrates a ETL (Extract, Transform, Load) pipeline by leveraging the <a href="https://openweathermap.org/">openweathermapAPI</a>, scheduling with Apache Airflow running daily, then loading the transformed data into a PostgreSQL database.
 <br />
 
 <h2>Languages and Utilities Used</h2>
@@ -17,12 +17,10 @@ This project automates the process of collecting, scheduling, and storing weathe
 - <b>PgAdmin</b>
 - <b>sql</b>
 
-<h2>Database Schema:</h2>
-
 <p align="center">
 <img src="https://i.imgur.com/jFhl9nE.jpeg" height="80%" width="80%" alt="DataArchitecture"/>
 
-<h2>Output from pokemon_project.py:</h2>
+<h2>Output from weather_data_pipeline.py:</h2>
 
 <p align="center">
 Airflow<br/>
