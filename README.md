@@ -1,4 +1,4 @@
-<h1>Weather Data Pipeline using <a href="https://openweathermap.org/">OpenWeatherMapAPI</a> and Airflow</h1>
+<h1>Weather Data Pipeline using <a href="https://openweathermap.org/">OpenWeatherMapAPI</a>, Airflow, and load Postgres</h1>
 
 <h2>Description</h2>
 This project automates the process of collecting 5-day weather forecasts, scheduling, and storing weather data. It demonstrates a ETL (Extract, Transform, Load) pipeline by leveraging the <a href="https://openweathermap.org/">openweathermapAPI</a>, scheduling with Apache Airflow running daily, then loading the transformed data into a PostgreSQL database.
