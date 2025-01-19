@@ -34,6 +34,8 @@ Paste to the api_key in weather_data_pipeline. Enter the name of the city whose 
 <br />
 
 <h2>Airflow dags and Output Table in PgAdmin</h2>
+
+<p align="center">
 <br />
 Airflow<br/>
 <img src="https://i.imgur.com/jHjFWoU.jpeg" height="60%" width="60%" alt="Airflow"/>
