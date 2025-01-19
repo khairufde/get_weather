@@ -1,5 +1,3 @@
-# Extract Weather Data From <a href="https://openweathermap.org/">openweathermapAPI</a>
-
 <h1>Weather Data Pipeline using <a href="https://openweathermap.org/">OpenWeatherMapAPI</a> and Airflow</h1>
 
 <h2>Description</h2>
