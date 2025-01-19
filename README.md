@@ -17,9 +17,6 @@ This project automates the process of collecting 5-day weather forecasts, schedu
 - <b>PgAdmin</b>
 - <b>sql</b>
 
-<p align="center">
-<img src="https://i.imgur.com/jFhl9nE.jpeg" height="80%" width="80%" alt="DataArchitecture"/>
-
 <h2>Output from weather_data_pipeline.py:</h2>
 
 <p align="center">
