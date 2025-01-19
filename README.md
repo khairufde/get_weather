@@ -21,7 +21,7 @@ This project automates the process of collecting 5-day weather forecasts, schedu
 
 <p align="center">
 <br />
-You have yo sign in to <a href="https://openweathermap.org/">openweathermapAPI</a>, then navigate to My API Keys<br/>
+You have to sign in to <a href="https://openweathermap.org/">openweathermapAPI</a>, then navigate to My API Keys<br/>
 <img src="https://i.imgur.com/WGDsGwV.jpeg" height="60%" width="60%" alt="MyAPIKeys"/>
 <br />
 <br />
