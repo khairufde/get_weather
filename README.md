@@ -20,12 +20,25 @@ This project automates the process of collecting 5-day weather forecasts, schedu
 <h2>Output from weather_data_pipeline.py:</h2>
 
 <p align="center">
+<br />
+Navigate to My API Keys<br/>
+<img src="https://i.imgur.com/WGDsGwV.jpeg" height="60%" width="60%" alt="MyAPIKeys"/>
+<br />
+<br />
+Copy the API Key<br/>
+<img src="https://i.imgur.com/b0ullLH.jpeg" height="60%" width="60%" alt="CopytheAPIKey"/>
+<br />
+<br />
+Paste to the api_key in weather_data_pipeline. Enter the name of the city whose weather data you want to obtain. example: "london"<br/>
+<img src="https://i.imgur.com/J0LKeBT.jpeg" height="60%" width="60%" alt="Pasteapi_key"/>
+<br />
+<br />
 Airflow<br/>
-<img src="https://i.imgur.com/jHjFWoU.jpeg" height="60%" width="60%" alt="Output1"/>
+<img src="https://i.imgur.com/jHjFWoU.jpeg" height="60%" width="60%" alt="Airflow"/>
 <br />
 <br />
 Output Table in PgAdmin<br/>
-<img src="https://i.imgur.com/nta4P6U.jpeg" height="60%" width="60%" alt="Output2"/>
+<img src="https://i.imgur.com/nta4P6U.jpeg" height="60%" width="60%" alt="PgAdmin"/>
 <br />
 </p>
 
