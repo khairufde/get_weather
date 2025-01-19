@@ -18,6 +18,13 @@ This project automates the process of collecting 5-day weather forecasts, schedu
 - <b>PgAdmin</b>
 - <b>sql</b>
 
+<h2>Pipeline Design</h2>
+
+<p align="center">
+<br />
+<img src="https://i.imgur.com/kpr7qtD.png" height="60%" width="60%" alt="MyAPIKeys"/>
+<br />
+
 <h2>How to obtain API Key:</h2>
 
 <p align="center">
