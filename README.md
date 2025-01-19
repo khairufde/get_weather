@@ -22,7 +22,7 @@ This project automates the process of collecting 5-day weather forecasts, schedu
 
 <p align="center">
 <br />
-<img src="https://imgur.com/991601d1-89a8-4bf0-af3e-7ece61c12117" height="60%" width="60%" alt="Pipeline Design"/>
+<img src="https://i.imgur.com/hZIbCSg.png" height="60%" width="60%" alt="Pipeline Design"/>
 <br />
 
 <h2>How to obtain API Key:</h2>
